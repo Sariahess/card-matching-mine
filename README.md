@@ -23,14 +23,12 @@ restart game
 
 4. The 'your score' number shows how many times the player has attempted to match cards. The count will go up by 1 per click, However, when the user clicks on an opened card or other spaces besides the card, the count will not go up. The score also will not increase when all the cards have been matched and the player wins the game.
 
-5. When all 12 cards have been matched, pop-up notice shows the player a message of congratulations.
+5. When all 12 cards have been matched, pop-up notice shows the player a message of congratulations. Unless the player clicks on the OK button on the winning message, the game wouldn't proceed.
 
-<img src="win-notice.png" />
+6. By clicking on 'restart game' or refreshing the webpage, the player may refresh the whole board at any given time.
 
-6. Unless the player clicks on the OK button on the winning message, the game wouldn't proceed.
-
-7. By clicking on 'restart game' or refreshing the webpage, the player may refresh the whole board at any given time.
+7. Restarted (refreshed) game would show next cards in a new order, and the whole board (12 cards) would be shuffled as well.
 
 <br>
 
-## <span style="color: green">Enjoy the game!</span>
+### Enjoy the game!
